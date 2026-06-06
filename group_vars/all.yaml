@@ -1,0 +1,16 @@
+PROJECT_NAME: robo
+DOMAIN_NAME: mrmotam.online
+INSTANCES:
+- mongodb
+# - redis
+# - mysql
+# - rabbitMQ
+# - catalogue
+# - user
+# - cart
+# - shipping
+# - payment
+- frontend
+AMI_ID: ami-0220d79f3f480ecf5
+INSTANCE_TYPE: t3.micro
+METHOD: create
