@@ -1,4 +1,4 @@
-- name: Creating instances for roboshop env
+- name: Creating instances for roboshop Env
   hosts: local
   # vars_files:
   # - ./group_vars/vars.yml
